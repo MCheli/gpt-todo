@@ -1,1 +1,1 @@
-# gpt-todo2
+# gpt-todo

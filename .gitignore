@@ -1,0 +1,6 @@
+.venv
+node_modules
+__pycache__
+todo-app/dist/**
+todo-app/node_module/s**
+.DS_store
